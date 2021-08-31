@@ -1,6 +1,12 @@
-## Welcome! 👋
+## Hey! 👋
 
-I'm Conor, working
+I'm Conor (He/Him):
+ - Self Hosting
+ - Working on software to make software work for real people
+ - That's phrased deliberately awkwardly
+ - Find me on Matrix and Mastodon
+
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=conor-f&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=conor-f&langs_count=5&theme=tokyonight)]()
 

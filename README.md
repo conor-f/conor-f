@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=conor-f&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=conor-f&langs_count=5&theme=tokyonight)]()
+
 <!--
 **conor-f/conor-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
